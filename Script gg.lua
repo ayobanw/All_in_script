@@ -12,7 +12,7 @@ if key == nil or key == "" then
     os.exit()
 end
 
-local url = "https://raw.githubusercontent.com/ayobanw/keys/main/keys.txt"
+local url = "https://raw.githubusercontent.com/ayobanw/keys/SC ALL MENU NEW 4.9.2/keys.txt"
 
 local response = gg.makeRequest(url)
 local body = response.content
