@@ -1,5 +1,5 @@
-local github_user = "All_in_script"
-local repo_name = "keys"
+local github_user = "ayobanw"
+local repo_name = "All_in_script"
 local key_file = "keys.txt"
 local script_file = "SC ALL MENU NEW 4.9.2.lua"
 
