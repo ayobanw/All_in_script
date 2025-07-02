@@ -1,7 +1,7 @@
 local github_user = "All_in_script"
 local repo_name = "keys"
 local key_file = "keys.txt"
-local script_file = "main.lua"
+local script_file = "SC ALL MENU NEW 4.9.2.lua"
 
 local key_url = "https://raw.githubusercontent.com/" .. github_user .. "/" .. repo_name .. "/main/" .. key_file
 local script_url = "https://raw.githubusercontent.com/" .. github_user .. "/" .. repo_name .. "/main/" .. script_file
