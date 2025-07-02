@@ -114,7 +114,7 @@ MENU3 = gg.choice({
 [[ Off ]],--12
 [[ Anti kick ]],--13
 [[ Buy car ]],--14
-[[ ♻️Kembali ]],
+[[ Kembali ]],
 },nil,os.date[[
 ☣️ⲀⲚⲰ ®©™☣️
 ]])
@@ -145,7 +145,7 @@ MENU4 = gg.choice({
 [[ Chrome body ]], -- 1
 [[ Chrome velg ]],--2
 [[ Remove bumper ]],--3
-[[ ♻️Kembali ]],--4
+[[ Kembali ]],--4
 },nil,os.date[[
 ☣️ⲀⲚⲰ ®©™☣️
 ]])
@@ -167,7 +167,7 @@ MENU5 = gg.choice({
 [[ On ]],--4
 [[ 3 Sec ]],--5
 [[ Off ]],--6
-[[ ♻️Kembali ]],--7
+[[ Kembali ]],--7
 },nil,os.date[[
 ☣️ⲀⲚⲰ ®©™☣️
 ]])
@@ -190,7 +190,7 @@ MENU6 = gg.choice({
 [[ Semi 3 mode ]],--2
 [[ Glitch ]],--3
 [[ Spek liaran ]],--4
-[[ ♻️Kembali ]],--5
+[[ Kembali ]],--5
 },nil,os.date[[
 ☣️ⲀⲚⲰ ®©™☣️
 ]])
@@ -210,7 +210,7 @@ MENU7 = gg.choice({
 [[ On driff ]], -- 1
 [[ Off driff ]],--2
 [[ Anti damage angine ]],--3
-[[ ♻️Kembali ]],--4
+[[ Kembali ]],--4
 },nil,os.date[[
 ☣️ⲀⲚⲰ ®©™☣️
 ]])
@@ -230,7 +230,7 @@ MENU8 = gg.choice({
 [[ Control Glitch ]],--2
 [[ Grip ]],--3
 [[ Edit gearbox ]],--4
-[[ ♻️Kembali ]],--5
+[[ Kembali ]],--5
 },nil,os.date[[
 ☣️ⲀⲚⲰ ®©™☣️
 ]])
@@ -250,7 +250,7 @@ function SPEED10()
 MENU9 = gg.choice({
 [[ ON IN ROOM ]], -- 1
 [[ SPEK ]],--2
-[[ ♻️Kembali ]],--3
+[[ Kembali ]],--3
 },nil,os.date[[
 ☣️ⲀⲚⲰ ®©™☣️
 ]])
@@ -268,7 +268,7 @@ MENU10 = gg.choice({
 [[ ON ECCU IN ROOM ]], -- 1
 [[ ON IN ROOM ]],--2
 [[ SOUND ]],--3
-[[ ♻️Kembali ]],
+[[ Kembali ]],
 },nil,os.date[[
 ☣️ⲀⲚⲰ ®©™☣️
 ]])
@@ -286,7 +286,7 @@ function SPEED12()
 MENU11 = gg.choice({
 [[ ALL COSTUM ANONYMOUS ]], -- 1
 [[ ALL COSTUM XA CODE APP ]],--2
-[[ ♻️Kembali ]],
+[[ Kembali ]],
 },nil,os.date[[
 ☣️ⲀⲚⲰ ®©™☣️
 ]])
@@ -304,7 +304,7 @@ MENU12 = gg.choice({
 [[ Edit spek,mass ,cd in room ]],-- 1
 [[ Control Glitch  ]],--2
 [[ Grip ]],--3
-[[ ♻️Kembali ]],
+[[ Kembali ]],
 },nil,os.date[[
 ☣️ⲀⲚⲰ ®©™☣️
 ]])
@@ -322,7 +322,7 @@ function SPEED14()
 MENU13 = gg.choice({
 [[ ON IN ROOM ]],-- 1
 [[ SPEK  ]],--2
-[[ ♻️Kembali ]],
+[[ Kembali ]],
 },nil,os.date[[
 ☣️ⲀⲚⲰ ®©™☣️
 ]])
@@ -340,7 +340,7 @@ MENU14= gg.choice({
 [[ ON IN ROOM ]],-- 1
 [[ On saat los engine ]],--2
 [[ SPEK  ]],--3
-[[ ♻️Kembali ]],
+[[ Kembali ]],
 },nil,os.date[[
 ☣️ⲀⲚⲰ ®©™☣️
 ]])
@@ -358,7 +358,7 @@ function SPEED16()
 MENU15 = gg.choice({
 [[ SPEK ]],--1
 [[ ON IN ROOM ]],--2
-[[ ♻️Kembali ]],
+[[ Kembali ]],
 },nil,os.date[[
 ☣️ⲀⲚⲰ ®©™☣️
 ]])
@@ -374,7 +374,7 @@ end
 function SPEED17()
 MENU16 = gg.choice({
 [[ SPEK ]],-- 1
-[[ ♻️Kembali ]],
+[[ Kembali ]],
 },nil,os.date[[
 ☣️ⲀⲚⲰ ®©™☣️
 ]])
