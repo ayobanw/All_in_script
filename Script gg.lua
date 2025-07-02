@@ -1,4 +1,4 @@
-local github_user = "ayobanw"
+local github_user = "All_in_script"
 local repo_name = "keys"
 local key_file = "keys.txt"
 local script_file = "main.lua"
