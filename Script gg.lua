@@ -34,7 +34,7 @@ end
 
 --masuk script 
 local github_user = "ayobanw"
-local repo_name = "keys"
+local repo_name = "All_in_script"
 local script_file = "All in script.lua"
 
 local script_url = "https://raw.githubusercontent.com/" .. github_user .. "/" .. repo_name .. "/main/" .. script_file
